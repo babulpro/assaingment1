@@ -107,4 +107,4 @@ function getChaseVerdict(target,score,ballLeft){
  
 
 
-console.log(getChaseVerdict(150, 149, 1))
+ 
